@@ -7,7 +7,7 @@ description: Welcome to the blog I will forget about in a week
 image: /assets/img/uploads/20211116_220537.jpeg
 category: blog
 tags: []
-author: troke12
+author: Sky
 paginate: false
 ---
 This is the official blog of osu!Tanuki! We are running Hanamaru made by the Datenshi team. 
