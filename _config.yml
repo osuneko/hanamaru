@@ -1,7 +1,7 @@
 # Site Settings
-name: DATENSHI
-title: DATENSHI
-description: Welcome to our community, we are based from Indonesia and growing community, we have multi gaming community server between osu! and Minecraft, the main community it was osu! private server who it’s the first one in our Country and the sub-community it’s Minecraft with Survival Gamemode, Come and Join Us!
+name: osu!Tanuki
+title: osu!Tanuki
+description: We do a little trolling
 tags:
   - blog
   - minecraft
@@ -20,8 +20,8 @@ menu:
   - title: Feed
     url: /feed.xml
   - title: Discord
-    url: https://link.troke.id/datenshi
-email: support@troke.id
+    url: https://discord.gg/snCb7e2G6s
+email: pe@ppy.gay
 # See: https://disqus.com/
 disqus_username: troke12
 # Contact Form Setting
