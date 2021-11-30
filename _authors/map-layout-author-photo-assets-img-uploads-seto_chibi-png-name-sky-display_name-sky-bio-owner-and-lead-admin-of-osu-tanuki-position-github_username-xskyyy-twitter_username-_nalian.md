@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/seto_chibi.png
+photo: https://a.osutanuki.com/1689
 name: Sky
 display_name: Sky
 position: ""
